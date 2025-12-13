@@ -56,25 +56,3 @@ footer {
   color: white;
   margin-top: 40px;
 }
-
-.site-header {
-  text-align: center;
-  padding: 30px 15px;
-  background: #f8f9fb;
-}
-
-.logo {
-  max-width: 140px;
-  margin-bottom: 15px;
-}
-
-.whatsapp-btn {
-  display: inline-block;
-  margin-top: 15px;
-  padding: 12px 20px;
-  background: #25D366;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-}
