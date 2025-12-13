@@ -63,10 +63,11 @@ footer {
 }
 
 .logo {
-  max-width: 140px;
-  margin-bottom: 15px;
+  max-width: 120px;   /* controls size */
+  height: auto;
+  display: block;
+  margin: 0 auto 15px auto; /* space below logo */
 }
-
 .whatsapp-btn {
   display: inline-block;
   margin-top: 15px;
