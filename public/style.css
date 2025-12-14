@@ -22,16 +22,6 @@ header p {
   font-size: 18px;
 }
 
-.whatsapp-btn {
-  display: inline-block;
-  background: #25d366;
-  color: white;
-  padding: 12px 22px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
 section {
   max-width: 800px;
   margin: 30px auto;
@@ -56,17 +46,7 @@ footer {
   color: white;
   margin-top: 40px;
 }
-.site-header {
-  text-align: center;
-  padding: 25px 15px 30px;
-}
 
-.logo {
-  max-width: 120px;   /* controls size */
-  height: auto;
-  display: block;
-  margin: 0 auto 15px auto; /* space below logo */
-}
 .whatsapp-btn {
   display: inline-block;
   margin-top: 15px;
