@@ -11,7 +11,14 @@ header {
   background: #0a2a43;
   color: white;
 }
+header h1 {
+  color: #ffffff;
+}
 
+header p {
+  color: #e0e0e0;
+  opacity: 1;
+}
 header h1 {
   margin: 0;
   font-size: 32px;
